@@ -1,0 +1,9 @@
+Brightness baseline (LOSO)\nmacro-F1=0.5333 acc=0.5385\n\n              precision    recall  f1-score   support
+
+      Normal       0.20      0.33      0.25         3
+  Osteopenia       0.75      0.50      0.60         6
+Osteoporosis       0.75      0.75      0.75         4
+
+    accuracy                           0.54        13
+   macro avg       0.57      0.53      0.53        13
+weighted avg       0.62      0.54      0.57        13
